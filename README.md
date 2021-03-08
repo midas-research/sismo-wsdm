@@ -1,6 +1,7 @@
 # Towards Ordinal Suicide Ideation Detection on Social Media
 
 This codebase contains the python scripts for SISMO, the base model for Towards Ordinal Suicide Ideation Detection on Social Media.
+The paper and related poster is also available directly through this repository.
 
 WSDM '21 paper [coming soon](#)
 
